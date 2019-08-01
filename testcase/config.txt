@@ -1,0 +1,4 @@
+C:\Project\all_storage\build\all_storage\testcase\log1.txt
+C:\Project\all_storage\build\all_storage\testcase\log2.txt
+C:\Project\all_storage\build\all_storage\testcase\log3.txt
+C:\Project\all_storage\build\all_storage\testcase\log4.txt
